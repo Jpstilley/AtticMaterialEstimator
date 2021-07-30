@@ -1,0 +1,16 @@
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\bin\Debug\net5.0\AtticMaterialEstimator.exe
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\bin\Debug\net5.0\AtticMaterialEstimator.deps.json
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\bin\Debug\net5.0\AtticMaterialEstimator.runtimeconfig.json
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\bin\Debug\net5.0\AtticMaterialEstimator.runtimeconfig.dev.json
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\bin\Debug\net5.0\AtticMaterialEstimator.dll
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\bin\Debug\net5.0\ref\AtticMaterialEstimator.dll
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\bin\Debug\net5.0\AtticMaterialEstimator.pdb
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\obj\Debug\net5.0\AtticMaterialEstimator.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\obj\Debug\net5.0\AtticMaterialEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\obj\Debug\net5.0\AtticMaterialEstimator.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\obj\Debug\net5.0\AtticMaterialEstimator.AssemblyInfo.cs
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\obj\Debug\net5.0\AtticMaterialEstimator.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\obj\Debug\net5.0\AtticMaterialEstimator.dll
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\obj\Debug\net5.0\ref\AtticMaterialEstimator.dll
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\obj\Debug\net5.0\AtticMaterialEstimator.pdb
+C:\Users\andre\Documents\Kata Work\AtticMaterialEstimator\AtticMaterialEstimator\obj\Debug\net5.0\AtticMaterialEstimator.genruntimeconfig.cache
